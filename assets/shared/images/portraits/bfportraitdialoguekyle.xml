@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bfportraitsnoanimation.png">
+<SubTexture name="bfportraitsnoanimation idle0000" x="0" y="0" width="479" height="555" frameX="-795" frameY="-65" frameWidth="479" frameHeight="555" />
+</TextureAtlas>

@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="kyledialoguenew.png">
+<SubTexture name="kyledialoguenew_tired idle0000" x="0" y="0" width="379" height="455" frameX="295" frameY="-65" frameWidth="379" frameHeight="455" />
+</TextureAtlas>
